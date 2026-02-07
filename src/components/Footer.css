@@ -1,0 +1,38 @@
+/* CSS generated with AI assistance and edited by Nawzad */
+.footer {
+  margin-top: 30px;
+  background: #111827;
+  color: white;
+  padding: 22px 0;
+}
+
+.footer__inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 16px;
+  display: grid;
+  grid-template-columns: 1.2fr 1fr 0.7fr;
+  gap: 18px;
+}
+
+.footer__title {
+  margin: 0 0 8px;
+  font-size: 14px;
+  letter-spacing: 0.4px;
+}
+
+.footer__text {
+  margin: 6px 0;
+  color: #d1d5db;
+  font-size: 13px;
+}
+
+.footer__text a {
+  color: #d1d5db;
+  text-decoration: none;
+}
+
+.footer__text a:hover {
+  color: white;
+  text-decoration: underline;
+}

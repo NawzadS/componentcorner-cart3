@@ -1,0 +1,31 @@
+/* CSS generated with AI assistance and edited by Nawzad */
+.cartItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: white;
+  margin-bottom: 10px;
+}
+
+.cartItem__name {
+  margin: 0;
+  font-weight: 600;
+}
+
+.cartItem__price {
+  margin: 4px 0 0;
+  color: #4b5563;
+  font-size: 14px;
+}
+
+.cartItem__remove {
+  border: none;
+  background: #111827;
+  color: white;
+  padding: 8px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}

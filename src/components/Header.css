@@ -1,0 +1,26 @@
+/* CSS generated with AI assistance and edited by Nawzad */
+.cart-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.cart-icon {
+  font-size: 18px;
+}
+
+.cart-badge {
+  position: absolute;
+  top: -8px;
+  right: -10px;
+  background: #ef4444;
+  color: white;
+  width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
